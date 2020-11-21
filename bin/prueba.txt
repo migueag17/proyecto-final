@@ -1,0 +1,28 @@
+3
+1
+3
+1,Preso 1,25,200,15,9,3
+robo
+pelea
+asesinato
+2,Preso 2,47,120,10,5,2
+robo
+pelea
+3,Preso 3,25,70,5,1,1
+robo
+2
+2
+4,Preso 4,25,120,10,5,2
+robo
+pelea
+5,Preso 5,25,200,15,9,3
+secuestro
+pelea
+asesinato
+3
+2
+6,Preso 6,25,70,15,1,1
+secuestro
+7,Preso 7,25,120,15,9,2
+secuestro
+asesinato

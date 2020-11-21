@@ -33,14 +33,14 @@ public class Carcel {
 	
 	public float promedioEdades() {
 		float promedio = 0;
-		int contadorEstudiantes = 0;
+		int contadorPresos = 0;
 		
 		for(Preso preso : colaPresos) {
 			promedio = promedio + preso.edad;
-			contadorEstudiantes++;
+			contadorPresos++;
 		}
 		
-		promedio = promedio / contadorEstudiantes;
+		promedio = promedio / contadorPresos;
 		
 		return promedio;		
 	}
